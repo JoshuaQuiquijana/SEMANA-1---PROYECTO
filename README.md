@@ -61,34 +61,10 @@ Aplicación web educativa que estudia cuatro casos hipotéticos inspirados en un
 - **Integración:** trapecio compuesto, Simpson 1/3 compuesto y Romberg.
 - **EDO:** Runge-Kutta de 2.º y 4.º orden.
 
-## Estructura del repositorio
-
-```
-SIMTELE-RISK/
-├── simtele-risk.html   # Aplicación web (HTML, CSS y JavaScript en un solo archivo)
-├── README.md
-└── docs/
-    ├── Desafio_Integrador.pdf
-    ├── Entrega_Semana_1.docx
-    └── DER/            # Diagrama entidad-relación
-```
-
-> Ajusta esta estructura a los archivos que realmente tengas en el repositorio.
 
 ## Cómo ejecutar
 
-No requiere instalación ni dependencias.
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/<usuario>/SIMTELE-RISK.git
-   cd SIMTELE-RISK
-   ```
-2. Abre `simtele-risk.html` en el navegador, o sírvelo localmente:
-   ```bash
-   python -m http.server 8000
-   ```
-   y entra a `http://localhost:8000/simtele-risk.html`.
+ entra a `https://joshuaquiquijana.github.io/SEMANA-1---PROYECTO/`.
 
 ### Prueba rápida
 
